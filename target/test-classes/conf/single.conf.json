@@ -1,0 +1,15 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "sachinm_mSzRqL",
+  "key": "9zR8dSpRnp2pNxzSQ3sW",
+
+  "capabilities": {
+    "build": "junit-build-herokuapp",
+    "name": "single_test",
+    "browserstack.debug": true
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  }]
+}
